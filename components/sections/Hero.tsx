@@ -36,7 +36,7 @@ export default function Hero() {
 
 
           {/* Heading */}
-          <div className="space-y-4 mt-10">
+          <div className="space-y-4 mt-35">
             <motion.h1
               initial={{ opacity: 0, scale: 0.95 }}
               animate={{ opacity: 1, scale: 1 }}
