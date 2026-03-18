@@ -156,7 +156,7 @@ export const projects = [
     ],
     icon: "🚀",
     tech: ["Go", "Redis", "Gemini", "Next.js", "React"],
-    github: "https://github.com/Prithalsing",
+    github: "https://github.com/Prithalsing/AI-todolist",
     demo: "#",
   },
 ];
